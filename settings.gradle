@@ -1,0 +1,3 @@
+rootProject.name='Authenticator'
+include ':app'
+include ':dynamicfeature'
